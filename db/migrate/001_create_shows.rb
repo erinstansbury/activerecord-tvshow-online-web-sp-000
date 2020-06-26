@@ -1,1 +1,1 @@
-class CreateSHows < ActiveMigration::Base
+class CreateSHows < ActiveMigration[5.1]
