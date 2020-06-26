@@ -1,3 +1,3 @@
-class CreateSHows < ActiveMigration[5.1]
+class CreateShows < ActiveMigration[5.1]
   
 end
