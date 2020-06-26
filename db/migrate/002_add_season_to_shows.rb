@@ -1,3 +1,5 @@
 class CreateShows < ActiveMigration[5.1]
-  def 
+  def change
+    
+  end
 end
