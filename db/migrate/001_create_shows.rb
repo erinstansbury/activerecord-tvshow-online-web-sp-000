@@ -1,0 +1,1 @@
+class CreateSHows < ActiveMigration::Base
